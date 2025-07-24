@@ -1,4 +1,4 @@
-# daBML Framework – Pre-publication Materials
+# daBML Framework – Thesis/Pre-publication Materials
 
 This repository supports the validation and dissemination of the **daBML framework**, developed and tested as part of the MSc thesis *"Validating a Framework for Generative AI Adoption in Software Startups"* by Gijs Oliemans (University of Amsterdam, 2025). The framework builds on and extends the **Build-Measure-Learn** cycle with upstream phases for more strategic and risk-aware Generative AI adoption in resource-constrained environments like startups.
 
